@@ -25,22 +25,22 @@ body {
 }
 
 .fixed-text {
-  top: 3%;
+  top: 5%;
 }
 
 .bottom-text {
-  bottom: 10%;
+  bottom: 5%;
 }
 
 .line {
   font-size: 70px;
   margin: 0px 0;
-  line-height: 1.5; /* Adjust line height for better readability */
+  line-height: 1; /* Adjust line height for better readability */
 }
 
 .line2 {
   font-size: 60px;
-  margin: 15px 0;
+  margin: 5px 0;
   line-height: 1; /* Adjust line height for better readability */
 }
 
