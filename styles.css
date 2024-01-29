@@ -25,7 +25,7 @@ body {
 }
 
 .fixed-text {
-  top: 0%;
+  top: 3%;
 }
 
 .bottom-text {
@@ -35,13 +35,13 @@ body {
 .line {
   font-size: 70px;
   margin: 5px 0;
-  line-height: 1; /* Adjust line height for better readability */
+  line-height: 0.2; /* Adjust line height for better readability */
 }
 
 .line2 {
   font-size: 60px;
   margin: 0px 0;
-  line-height: 1.5; /* Adjust line height for better readability */
+  line-height: 1; /* Adjust line height for better readability */
 }
 
 .name,
