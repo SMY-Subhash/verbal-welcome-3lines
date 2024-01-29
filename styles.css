@@ -25,11 +25,11 @@ body {
 }
 
 .fixed-text {
-  top: 5%;
+  top: 0%;
 }
 
 .bottom-text {
-  bottom: 5%;
+  bottom: 10%;
 }
 
 .line {
