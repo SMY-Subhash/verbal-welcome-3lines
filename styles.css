@@ -5,7 +5,7 @@ body {
 }
 
 .background-image {
-  background-image: url('https://images2.alphacoders.com/530/530093.jpg'); 
+  background-image: url('https://images2.alphacoders.com/530/530093.jpg'); /* Replace 'path/to/your/image.jpg' with your file path */
   background-size: cover;
   background-position: center;
   position: fixed;
@@ -15,30 +15,34 @@ body {
   height: 100%;
 }
 
-.fixed-text {
-  position: absolute;
-  top: 15%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-}
-
+.fixed-text,
 .bottom-text {
   position: absolute;
-  bottom: 20px; 
   left: 50%;
   transform: translateX(-50%);
   color: white;
   text-align: center;
 }
 
+.fixed-text {
+  top: 15%;
+}
+
+.bottom-text {
+  bottom: 20%;
+}
+
 .line {
-  font-size: 60px;
+  font-size: 80px;
   margin: 10px 0;
-  line-height: 1;  
+  line-height: 1; /* Adjust line height for better readability */
+}
+
+.name,
+.designation {
+  display: block;
 }
 
 .designation {
-  font-size: 50px;  
+  font-size: 60px; /* Adjust font size for the designations */
 }
