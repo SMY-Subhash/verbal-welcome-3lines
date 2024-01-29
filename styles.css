@@ -20,16 +20,16 @@ body {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  color: white;
+  color: Navy;
   text-align: center;
 }
 
 .fixed-text {
-  top: 15%;
+  top: 10%;
 }
 
 .bottom-text {
-  bottom: 20%;
+  bottom: 10%;
 }
 
 .line {
@@ -44,5 +44,5 @@ body {
 }
 
 .designation {
-  font-size: 40px; /* Adjust font size for the designations */
+  font-size: 30px; /* Adjust font size for the designations */
 }
