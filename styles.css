@@ -33,13 +33,13 @@ body {
 }
 
 .line {
-  font-size: 90px;
+  font-size: 100px;
   margin: 5px 0;
   line-height: 2; /* Adjust line height for better readability */
 }
 
 .line2 {
-  font-size: 80px;
+  font-size: 90px;
   margin: 0px 0;
   line-height: 1.5; /* Adjust line height for better readability */
 }
@@ -50,5 +50,5 @@ body {
 }
 
 .designation {
-  font-size: 30px; /* Adjust font size for the designations */
+  font-size: 50px; /* Adjust font size for the designations */
 }
