@@ -21,7 +21,7 @@ body {
   left: 20%;
   transform: translateX(0%);
   color: Navy;
-  text-align: center;
+  text-align: left;
 }
 
 .fixed-text {
