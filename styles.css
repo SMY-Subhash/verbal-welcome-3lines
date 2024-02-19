@@ -18,9 +18,9 @@ body {
 .fixed-text,
 .bottom-text {
   position: absolute;
-  left: 10%;
+  left: 7%;
   transform: translateX(0%);
-  color: Navy;
+  color: White;
   text-align: left;
 }
 
@@ -35,13 +35,13 @@ body {
 .line {
   font-size: 90px;
   margin: 5px 0;
-  line-height: 1.6; /* Adjust line height for better readability */
+  line-height: 2; /* Adjust line height for better readability */
 }
 
 .line2 {
   font-size: 80px;
   margin: 0px 0;
-  line-height: 1; /* Adjust line height for better readability */
+  line-height: 1.5; /* Adjust line height for better readability */
 }
 
 .name,
