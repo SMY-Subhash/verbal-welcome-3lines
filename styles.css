@@ -20,12 +20,12 @@ body {
   position: absolute;
   left: 7%;
   transform: translateX(0%);
-  color: White;
+  color: orange;
   text-align: left;
 }
 
 .fixed-text {
-  top: 20%;
+  top: 10%;
 }
 
 .bottom-text {
