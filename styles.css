@@ -18,18 +18,18 @@ body {
 .fixed-text,
 .bottom-text {
   position: absolute;
-  left: 50%;
+  left: 20%;
   transform: translateX(-50%);
   color: Navy;
   text-align: center;
 }
 
 .fixed-text {
-  top: 10%;
+  top: 20%;
 }
 
 .bottom-text {
-  bottom: 50%;
+  bottom: 30%;
 }
 
 .line {
