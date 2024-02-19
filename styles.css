@@ -5,7 +5,7 @@ body {
 }
 
 .background-image {
-  background-image: url('https://images2.alphacoders.com/530/530093.jpg'); /* Replace 'path/to/your/image.jpg' with your file path */
+  background-image: url('Zoom-Autonomous.png'); /* Replace 'path/to/your/image.jpg' with your file path */
   background-size: cover;
   background-position: center;
   position: fixed;
@@ -25,11 +25,11 @@ body {
 }
 
 .fixed-text {
-  top: 0%;
+  top: 10%;
 }
 
 .bottom-text {
-  bottom: 10%;
+  bottom: 50%;
 }
 
 .line {
