@@ -18,7 +18,7 @@ body {
 .fixed-text,
 .bottom-text {
   position: absolute;
-  left: 20%;
+  left: 10%;
   transform: translateX(0%);
   color: Navy;
   text-align: left;
