@@ -19,7 +19,7 @@ body {
 .bottom-text {
   position: absolute;
   left: 20%;
-  transform: translateX(-50%);
+  transform: translateX(0%);
   color: Navy;
   text-align: center;
 }
