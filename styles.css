@@ -45,6 +45,11 @@ body {
 }
 
 
+.name,
+.designation {
+  display: block;
+  margin: 2px 0;
+}
 
 .designation {
   font-size: 50px; /* Adjust font size for the designations */
