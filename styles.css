@@ -44,10 +44,7 @@ body {
   line-height: 1.9; /* Adjust line height for better readability */
 }
 
-.name,
-.designation {
-  display: block;
-}
+
 
 .designation {
   font-size: 50px; /* Adjust font size for the designations */
