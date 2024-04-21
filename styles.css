@@ -51,4 +51,5 @@ body {
 
 .designation {
   font-size: 50px; /* Adjust font size for the designations */
+  line-height: 1;
 }
